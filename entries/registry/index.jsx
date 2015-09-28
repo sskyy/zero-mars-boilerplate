@@ -18,8 +18,8 @@ module.exports = Roof.createRootContainer({
     require('./events/client.js')
   ],
   render: function(){
-    return <div>
+    return <h1>
       Hello Mars.
-    </div>
+    </h1>
   }
 })
