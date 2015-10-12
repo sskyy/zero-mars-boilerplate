@@ -1,6 +1,6 @@
 {
   "name": "zero-mars-boilerplate",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": [
     "zero module",
     "mars"
@@ -16,7 +16,10 @@
   },
   "author": "sskyy",
   "dependencies": {
-    "node-jsx": "~0.13.3"
+    "core-js": "~1.2.1",
+    "node-jsx": "~0.13.3",
+    "react": "~0.13.9",
+    "roof-zeroql": "~0.0.4"
   },
   "main": "index.js",
   "devDependencies": {},
