@@ -16,6 +16,7 @@
   },
   "author": "sskyy",
   "dependencies": {
+    "node-jsx": "~0.13.3"
   },
   "main": "index.js",
   "devDependencies": {},

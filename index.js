@@ -1,4 +1,4 @@
-
+require('node-jsx').install({extension: '.jsx'})
 var path = require('path')
 
 module.exports = {
