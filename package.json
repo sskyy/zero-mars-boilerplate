@@ -1,6 +1,6 @@
 {
   "name": "zero-mars-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "keywords": [
     "zero module",
     "mars"
@@ -8,10 +8,10 @@
   "description": "Mars boilerplate.",
   "zero": {
     "dependencies": {
-      "bus": "^0.2.0",
-      "request": "^0.2.0",
-      "roof": "^0.0.1",
-      "taurus": "^0.0.1"
+      "bus": "~0.2.0",
+      "request": "~0.2.0",
+      "roof": "~0.0.1",
+      "taurus": "~0.0.1"
     }
   },
   "author": "sskyy",
